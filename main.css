@@ -1,0 +1,57 @@
+/**********************************
+*
+* 	Recipes Stylesheet
+*
+*	White		: #FFF
+*	Header Background : #4054B2
+*
+***********************************
+
+/*---------------------------------
+*	Base
+----------------------------------*/
+body {
+	padding: 0;
+	background-color: #9f9f9f;
+}
+
+.header {
+	padding: 15px;
+	font-size: 20px;
+	background-color: #4444FF;
+}
+
+.content-section {
+	padding: 15px;
+	width: 500px;
+	margin: 0 auto 0 auto;
+}
+
+.hero {
+	text-align: center;
+	//border: 1px solid black;
+	padding-left:40px;
+}
+.nav {
+	
+	text-align: center;
+}
+.nav li {
+	display: inline;
+	padding-right: 20px;
+}
+.nav li:last-child {
+	padding-right: 0;
+}
+
+.nav a {
+	color: #FF5555;
+}
+.recipes {
+	background-color: #EEEEEE;
+	list-style-type: none;
+	padding: 0;
+}
+.recipes li {
+
+}
